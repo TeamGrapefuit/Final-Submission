@@ -1,11 +1,11 @@
-Team Grapefruit
-CS 3307 Team Project Version 1.0 10/26/2015
+#Team Grapefruit
+#CS 3307 Team Project Version 1.0 10/26/2015
 
-BUILDING EXECUTABLE:
+##BUILDING EXECUTABLE:
 
 -------------------------------------------
 
-CONTENTS:
+##CONTENTS:
 
 AgentTaskSpreadsheet.pdf: Detailed table outlining completed and planned tasks, and who contributed to them
 
