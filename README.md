@@ -2,8 +2,14 @@
 #CS 3307 Team Project Version 1.0 10/26/2015
 
 ##EXECUTABLE:
- - Built on a Windows 7 Machine
- - GrantsClinicalFunding_Sample.csv modified to correct errors
+Build Instructions:
+  Simply unzip the folder and open the 'Executable' folder. Double click the executable 'Grapefuit_exe' and the program will begin running. 
+  
+Notes:
+ - Built on a Windows 10 Machine
+ - Note, the graphs are currently hardcoded to display for "Strangelove, Dr.". A text entry box will be introduced in time for the V2 submission.
+ - Negative dollar values are currently displayed becuase of a datatype overflow. The team is currently working to resolve this issue.
+ - It currently uses a modified .csv file for grants because the original grants .csv file contained "LF" characters which added large spaces in the file content and made using the getline() C++ function unusable. This "LF" character was not found in the other .csv files and was not discovered in the original grants .csv file until late. This problem will be resolved for v2 submission.
  
 -------------------------------------------
 
