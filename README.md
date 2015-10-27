@@ -17,7 +17,7 @@
 
  - Timeline.pdf: Table that highlights all of the tasks and their completion date or expected completion date
 
- - Project folder: Contains all source and header files necessary for program to function
+ - SourceCode folder: Contains all source and header files necessary for program to function
 
  - Executable folder: Contains executable to run application
 
